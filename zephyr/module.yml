@@ -1,3 +1,4 @@
+name: zmk-keyboard-Untitled
 build:
   settings:
     board_root: .
